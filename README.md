@@ -45,7 +45,7 @@ data-analytics-journey/
 |---|---------|-------|--------|
 | 01 | Environment Setup | Tools | ✅ |
 | 02 | GitHub Portfolio | Git | ✅ |
-| 03 | Git Branches & PR | Git | ⏳ |
+| 03 | Git Branches & PR | Git | ✅ |
 | 04 | Command Line Basics | CLI | ⏳ |
 | 05 | First Python Script | Python | ⏳ |
 | 06 | Kaggle Account & Tour | Data Source | ⏳ |
